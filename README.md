@@ -17,7 +17,7 @@ Neutralne i krytyczne uwagi, które pojawiły się w opiniach o Czapphf, to:
 
 Jednakże, ogólny poziom dyskusji jest powyżej średniej. Częściej pojawiają się historie o stabilnych wypłatach i trafnych rekomendacjach rynkowych, niż skargi. Opinie o Czapphf są łatwe do znalezienia na jednej z popularnych platform społecznościowych:
 
-* [**Medium**](https://medium.com/@Czapphf/czapphf-opinie-co-warto-wiedzie%C4%87-o-brokerze-68d82442daa4)
+* [**Medium**](https://medium.com/@Czapphf/czapphf-opinie-pe%C5%82ny-przegl%C4%85d-brokera-oraz-warunk%C3%B3w-handlowych-8b5103617f87)
 * [**HackMD**](https://hackmd.io/@Czapphf/r1RZPsHHgg)
 
 ## Architektura terminalu Czapphf i doświadczenie użytkownika
